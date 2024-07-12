@@ -1,4 +1,4 @@
-# samsung_Service Center Web
+# Samsung_Service Center Web
 삼성 서비스 센터 반응형 웹페이지 (디자인 카피 및 퍼블리싱) <br>
 
 📌[홈페이지 바로가기](https://fold6.github.io/samsung_svc/samsungweb.html)
